@@ -1,2 +1,2 @@
 # Projeto_IniciandoComPython
-Projeto CRUD de um cadastro de conta bancária simples.
+Repositorio para apresentar meu progresso e o deploy meus projetos pessoais com a Linguagem Python
